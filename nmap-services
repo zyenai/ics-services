@@ -1,0 +1,4 @@
+# Fields in this file are: Service name, portnum/protocol, open-frequency, optional comments
+#
+tcpmux  1/tcp   0.001995        # TCP Port Service Multiplexer [rfc-1078] | TCP Port Service Multiplexer
+tcpmux  1/udp   0.001236        # TCP Port Service Multiplexer
