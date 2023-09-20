@@ -1,2 +1,2 @@
 # ics-services
-ICS-focused custom Well Known Port List for Nmap
+A customized, ICS-focused Well Known Port List for Nmap
